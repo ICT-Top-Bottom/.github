@@ -1,12 +1,12 @@
-## Hi there 👋
+### 스마트ICT융합전공 팀프로젝트 과제 저장소
 
-<!--
+**박재형** : 진짜 과탑
+**윤태웅** : 자칭 과바텀
 
-**Here are some ideas to get you started:**
+### 함께 한 프로젝트
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**파이썬데이터분석** : Project SIGMA(정신질환 성비로 치매 전이 위험을 구조적으로 예측해보며 데이터분석 진행)
+**데이터베이스** : MySQL "정복"
+**오픈소스SW기초** : YOLO Project(마트 쇼핑카트의 상태를 분석하는 YOLO 프로젝트 진행)
+
+> 2025.03 ~ 2028.02 까지 얼마나 많은 프로젝트를..
